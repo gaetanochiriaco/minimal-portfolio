@@ -1,0 +1,27 @@
+title: <p align="center"> Gaetano Chiriaco</p>
+
+logo: "/images/profilepic.jpeg?raw=true"
+
+description:
+  <p align="center">
+  Milan, Italy
+  <br> g.chiriaco@hotmail.it
+  <br> <a href="pdf/CV_ENG.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/gaetano-chiriaco-68085820b/">LinkedIn</a> |
+  <a href="https://github.com/gaetanochiriaco">GitHub</a> 
+  </p>
+  
+  <p align="justify">
+  I'm 24 and I'm finishing my <b>data science</b> studies. 
+  <br><br>
+  I am currently pursuing a <b>Master's Degree in Data Science at University of Milano-Bicocca</b>, where learned to manipulate and extract the most out of structured and unstructured data like documents, images and tabular data.
+  <br><br>
+  My <b>Bachelor's Degree in Big Data Statistics</b>) allowed me to develop strong statistical, mathematical and programming skills.
+  <br><br>
+  Currenly I use mostly Python and R for my work, but I have some experience with SQL and tools like Knime, Excel and Tableau.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+
+
