@@ -8,15 +8,9 @@ description:
   <br> <a href="pdf/CV_ENG.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/gaetano-chiriaco-68085820b/">LinkedIn</a> |
   <a href="https://github.com/gaetanochiriaco">GitHub</a> 
-  </p>
+  <br> 24 y/o | M. Sc. in Data Science | B. Sc. in Statistics </p>
   
-  <p align="justify">
-  I'm 24 and I'm currently pursuing a <b>Master's Degree in Data Science at University of Milano-Bicocca</b>, where I learned how to manipulate and extract the most out of structured and unstructured data like documents, images and tabular data.
-  <br>
-  My <b>Bachelor's Degree in Big Data Statistics</b>) allowed me to develop strong statistical, mathematical and programming skills.
-  I use mostly Python and R for my work, but I have some experience with SQL and tools like Knime, Excel and Tableau.
-  <br><br>
-  </p>
+
   
 theme: jekyll-theme-minimal
 
